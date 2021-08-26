@@ -20,8 +20,6 @@ npm i chatbot-indo
 ```js
 const chatbotIndo = require('chatbot-indo')
 
-const response = chatbotIndo.message('halo, apa kabar?') /
-
 chatbotIndo.message('halo, apa kabar?') // message yang di sampaikan ke bot adalah berupa "halo, apa kabar?"
 
 .then(console.log).catch(console.log) // response berupa JSON keluar di console
@@ -62,3 +60,4 @@ chatbotIndo.message('your message')
 - [Donate Me!](https://api.jastinch.xyz/donate)
 - [API [DEPRECATED]](https://api.jastinch.xyz)
 - [New API [STAY IN PROGRESS]](https://rest-api.jastinch.xyz)
+
