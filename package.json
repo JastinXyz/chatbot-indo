@@ -1,0 +1,33 @@
+{
+  "name": "chatbot-indo",
+  "version": "1.0.0",
+  "description": "Chat Bot Memakai Bahasa Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JastinXyz/chatbot-indo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JastinXyz/chatbot-indo/issues"
+  },
+  "homepage": "https://github.com/JastinXyz/chatbot-indo#readme",
+  "keywords": [
+    "chatbot",
+    "indonesia",
+    "chatbot-indo",
+    "chat-bot-indo",
+    "chat-bot",
+    "indo",
+    "chatbot-indonesia",
+    "chat-bot-indonesia"
+  ],
+  "author": "Jastin <jastinlinggar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2"
+  }
+}
